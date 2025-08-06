@@ -1,2 +1,2 @@
 # pisquaredbysix.github.io
-My own pages website
+Skibidi dob dob dob
