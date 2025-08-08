@@ -1,5 +1,1 @@
-# pisquaredbysix.github.io
-
-```python
-print("hello world")
-```
+[pisquaredbysix.github.io](https://pisquaredbysix.github.io)
