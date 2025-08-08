@@ -1,6 +1,0 @@
-remote theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme
-
-title: [Poetry and Essays]
-description: [A blog to document my philosophical wanderings]
