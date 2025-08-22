@@ -8,4 +8,4 @@ And also &mdash; in case your eyesballs haven't burnt off already somehow &mdash
 I don't have enough time at the moment to properly style the website at the moment (gotta wait for winter break :) )  so you will have to forgive me for this horrible sin.
 
 
-Anyway here's the website: [To Be Human](https://pisquaredbysix.github.io/to-be-human/)
+Anyway here's the blog: [To Be Human](https://pisquaredbysix.github.io/to-be-human/)
