@@ -1,5 +1,4 @@
-
-# About me
+<header>About me</header>
 Hello there and welcome to my website! I am Balaram Harsha Kallakuri and I am currently studying at the Indian Institute of Science Education and Research, Pune.
 I pretty much love doing everything and anything and if I could be immortal, I would &mdash; but alas! However, I am perfectly aware that I am perfectly mortal and will die someday;
 so it dawned on me that I have just about enough time to do just one thing properly in my life (that is if I don't sacrifice my life to save someone else's &mdash; that would be so cool), and so I chose physics &mdash; and philosophy!  
